@@ -1,0 +1,136 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   /* background: #000 !important;
+   color: #0f0 !important;
+   outline: solid #f00 1px !important; */
+}
+
+p {
+   color: #2d2d2d;
+   padding: 0;
+   margin: 0;
+}
+
+.lil-header {
+   font-size: 15px;
+   font-weight: 700;
+}
+
+.lil-des {
+   font-size: 16px;
+}
+
+body {
+   font-family: sahel, Tahoma, Helvetica, sans-serif;
+   font-size: 12px;
+   direction: rtl;
+}
+
+html, body {
+   width: 100%;
+   margin: 0px;
+   padding: 0px;
+   overflow-x: hidden;
+}
+
+footer {
+   direction: ltr;
+}
+
+.image {
+   width: 100vw;
+   max-width: 400px;
+   height: auto;
+}
+
+.test {
+   text-align: right;
+   /* width: 35em; */
+}
+
+.news-header {
+   font-size: 1.8em;
+   font-weight: 700;
+   line-height: 1.5em;
+   word-break: keep-all;
+}
+
+h6 {
+   font-weight: bolder;
+   font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   line-height: 1.6em;
+}
+
+.news-description {
+   line-height: 1.8em;
+   height: 7.4em;
+   overflow: hidden;
+   font-size: 1.3em;
+}
+
+.blue-title {
+   line-height: 1.6em;
+   z-index: 1;
+   overflow: hidden;
+   text-align: right;
+   color: #004a8f;
+   font-size: 2.15em;
+   font-weight: 700;
+   margin-bottom: 15px;
+}
+
+/* .responsive {
+   width: 100%;
+   max-width: 800px;
+   height: auto;
+} */
+
+.box1 {
+   border-right: 5px solid red;
+   height: 5rem;
+   border-width: 6px;
+}
+
+.box2 {
+   border-right: 5px solid orange;
+   height: 5rem;
+   border-width: 6px;
+}
+
+.box3 {
+   border-right: 5px solid brown;
+   height: 5rem;
+   border-width: 6px;
+}
+
+.box4 {
+   border-right: 5px solid gold;
+   height: 5rem;
+   border-width: 6px;
+}
+
+.dot, .dot-header {
+   border: 3px solid gray;
+   border-radius: 50%;
+   width: 5px;
+   height: auto;
+   text-align: center;
+   display: inline-block;
+}
+
+.dot-header {
+   border: 6px solid blue;
+}
+
+.ertefa {
+   max-height: 800px;
+}
+
+.pills {
+   background-color: #f0f0f0;
+}
